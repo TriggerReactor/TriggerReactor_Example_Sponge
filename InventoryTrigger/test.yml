@@ -1,0 +1,45 @@
+Items {
+    "2" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:iron_sword"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "&bhoho"
+                ]
+                Name="&cTest"
+            }
+        }
+    }
+    "3" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:iron_sword"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "&bhoho"
+                ]
+                Name="&cTest"
+            }
+        }
+    }
+    "5" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:wool"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "&cTest"
+                ]
+                Name="&aTest"
+            }
+        }
+    }
+}
+Size=9
