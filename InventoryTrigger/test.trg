@@ -4,9 +4,8 @@ IF trigger == "open"
 	IMPORT org.spongepowered.api.item.inventory.property.SlotIndex
 	
 	WHILE true
-		grids = inventory.query(QueryOperationTypes.INVENTORY_TYPE.of(GridInventory))
-		grid = grids.first()
-		#MESSAGE grid.set(5, 0, headForValue($playername))
+		#MESSAGE inventory
+		inventory.set(5, 0, headForValue($playername))
 		
 		#WAIT 1
 	ENDWHILE
