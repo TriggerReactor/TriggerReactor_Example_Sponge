@@ -1,1 +1,61 @@
-
+items {
+    thermal {
+        manual1 {
+            type="org.spongepowered.api.item.inventory.ItemStack"
+            value {
+                ContentVersion=1
+                Count=1
+                ItemType="thermalfoundation:tome_lexicon"
+                UnsafeDamage=0
+            }
+        }
+        manual2 {
+            type="org.spongepowered.api.item.inventory.ItemStack"
+            value {
+                ContentVersion=1
+                Count=1
+                ItemType="thermalfoundation:tome_experience"
+                UnsafeDamage=0
+            }
+        }
+    }
+    tinkers {
+        manual {
+            type="org.spongepowered.api.item.inventory.ItemStack"
+            value {
+                ContentVersion=1
+                Count=1
+                ItemType="tconstruct:book"
+                UnsafeDamage=0
+            }
+        }
+    }
+}
+spawn {
+    DIM7 {
+        location {
+            type="org.spongepowered.api.world.Location"
+            value {
+                BlockType="minecraft:tallgrass"
+                ContentVersion=1
+                WorldName=DIM7
+                WorldUuid="41140703-1ecf-4b04-8561-636d508a8402"
+                X=2.001199237131155
+                Y=60
+                Z=3.9824939409627964
+            }
+        }
+    }
+    location {
+        type="org.spongepowered.api.world.Location"
+        value {
+            BlockType="minecraft:air"
+            ContentVersion=1
+            WorldName=spawn
+            WorldUuid=c765ce2c-cffe-4eb6-89b2-a8c5a80d0154
+            X=184.08333062606988
+            Y=64
+            Z=251.3770235938582
+        }
+    }
+}

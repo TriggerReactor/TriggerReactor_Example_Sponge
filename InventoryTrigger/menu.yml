@@ -1,0 +1,81 @@
+Items {
+    "0" {
+        ContentVersion=2
+        Count=1
+        ItemType="twilightforest:magic_leaves"
+        UnsafeDamage=1
+        UnsafeData {
+            display {
+                Name="&4황혼의숲 이동"
+            }
+        }
+    }
+    "11" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:golden_apple"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "---",
+                    "&d[클릭시 지급]"
+                ]
+                Name="&b기본 킷 재발급[하루 1번]"
+            }
+        }
+    }
+    "22" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:book"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "---",
+                    "&d[클릭시 지급]"
+                ]
+                Name="&a모드 메뉴얼"
+            }
+        }
+    }
+    "29" {
+        ContentVersion=2
+        Count=1
+        ItemType="sereneseasons:season_clock"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Name="&d사계절 시계"
+            }
+        }
+    }
+    "33" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:clock"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Name="&d밤낮 시계"
+            }
+        }
+    }
+    "40" {
+        ContentVersion=2
+        Count=1
+        ItemType="cfm:tree_bottom"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "---",
+                    "&d[클릭시 이동]"
+                ]
+                Name="&a스폰으로"
+            }
+        }
+    }
+}
+Size=45

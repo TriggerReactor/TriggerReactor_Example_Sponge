@@ -1,0 +1,44 @@
+Items {
+    "3" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:iron_ingot"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "---",
+                    "&d[클릭으로 열기]"
+                ]
+                Name="&6구매 상점"
+            }
+        }
+    }
+    "5" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:gold_ingot"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "---",
+                    "&d[클릭으로 열기]"
+                ]
+                Name="&6판매 상점"
+            }
+        }
+    }
+    "8" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:wooden_door"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Name="&c뒤로 가기"
+            }
+        }
+    }
+}
+Size=9
