@@ -1,0 +1,33 @@
+Items {
+    "0" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:dirt"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "---",
+                    "&d[클릭시 이동]"
+                ]
+                Name="&a야생1"
+            }
+        }
+    }
+    "1" {
+        ContentVersion=2
+        Count=1
+        ItemType="minecraft:grass"
+        UnsafeDamage=0
+        UnsafeData {
+            display {
+                Lore=[
+                    "---",
+                    "&d[클릭시 이동]"
+                ]
+                Name="&a야생2 &6[기본]"
+            }
+        }
+    }
+}
+Size=9
